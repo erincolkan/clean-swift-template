@@ -2,6 +2,8 @@
 
 import UIKit
 
+fileprivate typealias Models = ___VARIABLE_sceneName___Models
+
 protocol ___VARIABLE_sceneName___DisplayLogic: AnyObject {
     
 }
