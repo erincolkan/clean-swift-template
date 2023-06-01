@@ -6,7 +6,7 @@ protocol ___VARIABLE_sceneName___DisplayLogic: AnyObject {
     
 }
 
-final class ___VARIABLE_sceneName___ViewController: UIViewController, ___VARIABLE_sceneName___DisplayLogic {
+final class ___VARIABLE_sceneName___Controller: UIViewController, ___VARIABLE_sceneName___DisplayLogic {
     
     typealias Router = (___VARIABLE_sceneName___RoutingLogic & ___VARIABLE_sceneName___DataPassing)
     
