@@ -12,7 +12,7 @@ protocol ___VARIABLE_sceneName___DataPassing {
 
 final class ___VARIABLE_sceneName___Router: ___VARIABLE_sceneName___RoutingLogic, ___VARIABLE_sceneName___DataPassing {
     // MARK: Properties
-    weak var controller: ___VARIABLE_sceneName___ViewController?
+    weak var controller: ___VARIABLE_sceneName___Controller?
     var dataStore: ___VARIABLE_sceneName___DataStore?
 
     // MARK: Routing Logic

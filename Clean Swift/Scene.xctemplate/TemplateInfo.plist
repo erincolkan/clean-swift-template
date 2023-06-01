@@ -34,13 +34,13 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___ViewController</string>
+			<string>___VARIABLE_sceneName:identifier___Controller</string>
 			<key>Description</key>
 			<string>The view controller name</string>
 			<key>Identifier</key>
 			<string>viewControllerName</string>
 			<key>Name</key>
-			<string>View Controller Name:</string>
+			<string>Controller Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
@@ -104,13 +104,13 @@
 		</dict>
 		<dict>
 			<key>Default</key>
-			<string>___VARIABLE_sceneName:identifier___Service</string>
+			<string>___VARIABLE_sceneName:identifier___NetworkWorker</string>
 			<key>Description</key>
-			<string>The service name</string>
+			<string>The network worker name</string>
 			<key>Identifier</key>
-			<string>serviceName</string>
+			<string>networkWorker</string>
 			<key>Name</key>
-			<string>Service Name:</string>
+			<string>Network Worker Name:</string>
 			<key>Required</key>
 			<true/>
 			<key>Type</key>
